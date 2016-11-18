@@ -3,6 +3,7 @@
 1. [Subscription](#subscription)
 1. [Renovation](#renovation)
 1. [Cancellation](#cancellation)
+1. [Others?](#others)
 
 ## Subscription
 
@@ -15,3 +16,7 @@
 ## Cancellation
 
 ![Cancellation flow](https://raw.githubusercontent.com/ariel-rios-movile/ubook/master/cancellation.mmd.png)
+
+## Others?
+
+TODO
