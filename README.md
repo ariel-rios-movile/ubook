@@ -2,12 +2,12 @@
 
 ## Subscription
 
-[[https://github.com/ariel-rios-movile/ubook/blob/master/subscription.mmd.png]]
+![Subscription flow](https://raw.githubusercontent.com/ariel-rios-movile/ubook/master/subscription.mmd.png)
 
 ## Renovation
 
-[[https://github.com/username/repository/blob/master/renovation.mmd.png]]
+![Renovation flow](https://raw.githubusercontent.com/ariel-rios-movile/ubook/master/renovation.mmd.png)
 
 ## Cancellation
 
-[[https://github.com/username/repository/blob/master/img/cancellation.mmd.png]]
+![Cancellation flow](https://raw.githubusercontent.com/ariel-rios-movile/ubook/master/cancellation.mmd.png)
